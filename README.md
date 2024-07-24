@@ -87,4 +87,4 @@ php artisan db:seed --class=UserSeeder
 
 
 Acessar o projeto
-[http://localhost:8989](http://localhost:8989)
+[http://localhost:8989](http://localhost:8989/admin)
