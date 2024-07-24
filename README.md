@@ -83,6 +83,9 @@ php artisan db:seed --class=RoleSeeder
 Criar o usuário Administrador do banco
 ```sh
 php artisan db:seed --class=UserSeeder
+
+Usuário: admin@mail.com
+Senha: 12345678
 ```
 
 
