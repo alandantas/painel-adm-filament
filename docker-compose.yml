@@ -16,7 +16,7 @@ services:
             - laravel
 
     # nginx
-    web:
+    nginx:
         image: nginx:alpine
         restart: unless-stopped
         ports:
