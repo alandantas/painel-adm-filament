@@ -4,7 +4,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/alandantas/painel-adm-laravel.git
+git clone [https://github.com/alandantas/painel-adm-laravel.git](https://github.com/alandantas/painel-adm-filament.git)
 ```
 
 
